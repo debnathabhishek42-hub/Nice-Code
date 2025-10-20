@@ -1,2 +1,2 @@
 # Nice-Code
-@nd trial period
+2nd trial period
